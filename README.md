@@ -13,10 +13,10 @@ You can download the APK file  [https://github.com/JASLEENKAUR13/CalculatorApp/r
 - Error handling for invalid inputs
 - Modern UI built with Jetpack Compose
 
-## Screenshots
-![WhatsApp Image 2025-02-20 at 15 15 26_5297696e]() ![WhatsApp Image 2025-02-20 at 15 15 26_7595448d](https://github.com/user-attachments/assets/c4007906-d0a6-4ad7-b385-d20ce1ffdab6)
-<img src="https://github.com/user-attachments/assets/98315919-757e-4fe8-a765-559b361f6054" width="50%" height = "25%" />
 
+## Screenshots
+<img src="https://github.com/JASLEENKAUR13/CalculatorApp/raw/main/WhatsApp%20Image%202025-02-20%20at%2015.15.26_1e1299d5.jpg" style="width: 400px; height: 550px;" />
+<img src="https://github.com/JASLEENKAUR13/CalculatorApp/raw/main/WhatsApp%20Image%202025-02-20%20at%2015.15.26_6d94d8fe.jpg" style="width: 400px; height: 550px;" />
 
 ## How to Use
 1. Download the APK.
